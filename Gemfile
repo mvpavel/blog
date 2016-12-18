@@ -23,6 +23,7 @@ end
 gem 'carrierwave', '>= 1.0.0.rc', '< 2.0'
 gem "mini_magick"
 gem 'trix'
+gem 'will_paginate', '~> 3.1.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
